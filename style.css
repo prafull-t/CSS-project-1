@@ -38,6 +38,11 @@
   margin: 10px;
 }
 
+.child:hover
+{
+  box-shadow: 0px 0px 10px 5px rgb(199, 199, 199);
+}
+
 .list {
   color: rgb(0, 138, 252);
   
